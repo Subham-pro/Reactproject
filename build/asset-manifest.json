@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Subham-s-Way/static/css/main.f855e6bc.css",
+    "main.js": "/Subham-s-Way/static/js/main.2b23a7b9.js",
+    "static/js/453.8460c1fb.chunk.js": "/Subham-s-Way/static/js/453.8460c1fb.chunk.js",
+    "index.html": "/Subham-s-Way/index.html",
+    "main.f855e6bc.css.map": "/Subham-s-Way/static/css/main.f855e6bc.css.map",
+    "main.2b23a7b9.js.map": "/Subham-s-Way/static/js/main.2b23a7b9.js.map",
+    "453.8460c1fb.chunk.js.map": "/Subham-s-Way/static/js/453.8460c1fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2b23a7b9.js"
+  ]
+}
